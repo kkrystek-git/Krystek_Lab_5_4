@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Krystek_Lab_5_4", "Krystek_Lab_5_4.csproj", "{54A50A75-84B6-407F-B152-A2FD45BA3EED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A50A75-84B6-407F-B152-A2FD45BA3EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A50A75-84B6-407F-B152-A2FD45BA3EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A50A75-84B6-407F-B152-A2FD45BA3EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A50A75-84B6-407F-B152-A2FD45BA3EED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89DF1BDA-0629-430D-AF3D-BFB6295E9A16}
+	EndGlobalSection
+EndGlobal
